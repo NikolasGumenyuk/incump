@@ -1,0 +1,11 @@
+/home/overlord/Документы/incump/bin/Debug/netcoreapp2.1/internshiptest.deps.json
+/home/overlord/Документы/incump/bin/Debug/netcoreapp2.1/internshiptest.runtimeconfig.json
+/home/overlord/Документы/incump/bin/Debug/netcoreapp2.1/internshiptest.runtimeconfig.dev.json
+/home/overlord/Документы/incump/bin/Debug/netcoreapp2.1/internshiptest.dll
+/home/overlord/Документы/incump/bin/Debug/netcoreapp2.1/internshiptest.pdb
+/home/overlord/Документы/incump/obj/Debug/netcoreapp2.1/internshiptest.csprojAssemblyReference.cache
+/home/overlord/Документы/incump/obj/Debug/netcoreapp2.1/internshiptest.csproj.CoreCompileInputs.cache
+/home/overlord/Документы/incump/obj/Debug/netcoreapp2.1/internshiptest.AssemblyInfoInputs.cache
+/home/overlord/Документы/incump/obj/Debug/netcoreapp2.1/internshiptest.AssemblyInfo.cs
+/home/overlord/Документы/incump/obj/Debug/netcoreapp2.1/internshiptest.dll
+/home/overlord/Документы/incump/obj/Debug/netcoreapp2.1/internshiptest.pdb
